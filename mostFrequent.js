@@ -29,6 +29,8 @@ function mostFrequent(arr, n) {
 
 // Driver Code
 
-let arr = [1, 5, 2, 5, 4, 2, 8, 5, 9, 4, 34, 4, 24, 4, 12, 4];
+let arr = [
+  1, 5, 2, 5, 4, 2, 8, 5, 9, 4, 34, 4, 24, 4, 12, 4, 1, 5, 2, 5, 4, 2, 8, 5, 9,
+];
 let n = arr.length;
 console.log(mostFrequent(arr, n));

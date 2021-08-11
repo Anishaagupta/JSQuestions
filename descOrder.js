@@ -19,4 +19,5 @@ const descOrder = input => {
   return input;
 };
 let result = descOrder(arr);
+let final = result.slice(0);
 console.log("new arr", result);
