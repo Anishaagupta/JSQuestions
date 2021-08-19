@@ -1,0 +1,27 @@
+.main-div{
+  /* background-color:red; */
+  height:200px;
+  width:200px;
+  display: grid;
+  justify-content: center;
+  /*display:flex;*/
+  align-items:center;
+  margin: auto; 
+}
+.div1{
+    background-color:red;
+    height:200px;
+    width:200px;
+    display: grid;
+    justify-content: center;
+    /*display:flex;*/
+    align-items:center; 
+  }
+  .div2{
+    background-color:white;
+    margin:auto;
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    border:2px solid green;
+  }
